@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Software na Universidade Católica de Brasília  
 💻 Dedicado à programação, tecnologia e resolução de problemas  
-🔍 Sempre aprendendo algo novo — atualmente focado em **programação full stack**
+🔍 Focado em **programação full stack**
 
 ---
 
@@ -11,9 +11,9 @@ Viso evoluir como desenvolvedor, atuando em projetos concretos
 
 ---
 
-### 🚀 Tecnologias e ferramentas que estou aprendendo:
+### 🚀 Tecnologias e ferramentas:
 - 💻 Linguagens: `Java`, `SQL`, `JavaScript`
-- 🌐 Web: `HTML`, `CSS`, `React` (básico)
+- 🌐 Web: `HTML`, `CSS`, `React`
 - ⚙️ Ferramentas: `Git`, `VS Code`, `GitHub`
 
 ---
